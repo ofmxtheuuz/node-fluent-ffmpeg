@@ -11,10 +11,15 @@ This library abstracts the complex command-line usage of ffmpeg into a fluent, e
 
 ## Installation
 
-Via npm:
+NPM:
 
 ```sh
 $ npm install fluent-ffmpeg
+```
+Yarn:
+
+```sh
+$ yarn add fluent-ffmpeg
 ```
 
 Or as a submodule:
